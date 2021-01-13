@@ -25,10 +25,6 @@
 
 #### 10. Open `send_sms.py` in **IDLE** and Run it!
 
-#### Or if you want to be cool on your mac...
-
-On Your Mac hit <kbd>CMD</kbd>+<kbd>SPACE</kbd> and type **Terminal**.
-Then type in the following command:
 ```
 python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 ```
