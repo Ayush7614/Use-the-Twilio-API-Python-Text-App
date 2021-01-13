@@ -14,8 +14,8 @@
 - [ ] Get Auth Token
 
 #### 6. Get Phone Numbers
-- [ ] [Your Twilio Number is Here](https://www.twilio.com/console/phone-numbers/incoming)
-- [ ] [Verified Cell Phone Number You Want To Text](https://www.twilio.com/console/phone-numbers/verified)
+- [ ] [Your Twilio Number is Here]()
+- [ ] [Verified Cell Phone Number You Want To Text]()
 
 #### 7. Put your twilio credentials and twilio phone numbers in `credentials.py`
 
